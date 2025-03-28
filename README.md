@@ -35,8 +35,6 @@ Android Studio is the official Integrated Development Environment (IDE) for buil
 
 ![Ca](https://github.com/user-attachments/assets/66a5e73b-5cc7-4247-9896-01cc1da3be3b)
 
-![Ca](https://github.com/user-attachments/assets/966ee680-be82-43a3-8922-87fb9c86720f)
-
 ![C](https://github.com/user-attachments/assets/7867495a-e662-41ec-b3c9-c5e37acc179d)
 
 ![Capture3131](https://github.com/user-attachments/assets/85aa3b9f-2468-40ee-9747-00c5f2c84880)
